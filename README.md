@@ -2,7 +2,7 @@
 Protractor code
 describe("iStock app", function() {
 
-  it("This test will cover certain 'happy flow' included in Zadanie 1", function() 
+  it("This test will cover certain 'happy flow', function() 
 		  { 
 	  browser.get("https://www.istockphoto.com/pl");
 	  
